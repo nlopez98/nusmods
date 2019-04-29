@@ -145,7 +145,7 @@ CREATE TABLE public.venue (
     name text NOT NULL,
     latitude numeric,
     longitude numeric,
-    alttitude numeric,
+    altitude numeric,
     floor text,
     term_id integer NOT NULL,
     department_id integer NOT NULL,
