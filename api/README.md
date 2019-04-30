@@ -1,5 +1,7 @@
 # GraphQL Server
 
+**Note:** This server is a work in progress and is *not* used in production. To access the API currently used by the nusmods.com website, please head to https://api.nusmods.com/v2.
+
 This project provides school data such as lessons and modules through an [API](https://www.mulesoft.com/resources/api/what-is-an-api).
 
 **Primary Goals**
