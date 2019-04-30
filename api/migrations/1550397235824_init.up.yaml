@@ -22,7 +22,7 @@
             permission:
               check: {}
               columns:
-                - alttitude
+                - altitude
                 - code
                 - department_id
                 - floor
@@ -47,7 +47,7 @@
                 - name
                 - latitude
                 - longitude
-                - alttitude
+                - altitude
                 - floor
                 - term_id
                 - department_id
@@ -65,7 +65,7 @@
                 - name
                 - latitude
                 - longitude
-                - alttitude
+                - altitude
                 - floor
                 - term_id
                 - department_id
@@ -84,7 +84,7 @@
                 - name
                 - latitude
                 - longitude
-                - alttitude
+                - altitude
                 - floor
                 - term_id
                 - department_id
@@ -97,7 +97,7 @@
           - comment: null
             permission:
               columns:
-                - alttitude
+                - altitude
                 - code
                 - department_id
                 - floor
